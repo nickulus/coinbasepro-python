@@ -20,11 +20,11 @@ with open("README.md", "r") as fh:
 
 setup(
     name='cbpro',
-    version='1.1.4',
+    version='2.0.0',
     author='Daniel Paquin',
     author_email='dpaq34@gmail.com',
     license='MIT',
-    url='https://github.com/danpaquin/coinbasepro-python',
+    url='https://github.com/nickulus/coinbasepro-python',
     packages=find_packages(),
     install_requires=install_requires,
     tests_require=tests_require,
